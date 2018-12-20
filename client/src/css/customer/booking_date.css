@@ -1,0 +1,45 @@
+.booking-date {
+    min-height: 200px;
+    background-color: white;
+    border-bottom: 1px solid #e4e2e2;
+}
+.search-box {
+    margin-top: 50px;
+}
+#searchForm .div-search {
+    padding-right: 30px;
+}
+#searchForm .label-search {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+#searchForm .input-date {
+    max-width: 150px;
+    font-size: 14px;
+}
+#searchForm .select-city {
+    width: 180px;
+    font-size: 14px;
+}
+.option-city {
+    font-size: 14px;
+    font-weight: bold;
+}
+#searchForm .input-text {
+    max-width: 180px;
+    font-size: 14px;
+}
+#btnSearch {
+    height:  calc(2.25rem + 2px);
+    margin-top: 31px;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background: #86b817;
+    border-radius: 0!important;
+    border: 1px solid #86b817;
+}
+#searchForm .fa-search {
+    padding-left: 6px;
+}

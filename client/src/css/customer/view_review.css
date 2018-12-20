@@ -1,0 +1,9 @@
+.main .content-body .snippet-content .description {
+    font-size: 14px;
+    
+    white-space: pre-wrap;
+    text-align: justify;
+}
+.review-pagination {
+    margin-top: 20px;
+}

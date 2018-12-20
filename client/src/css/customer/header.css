@@ -1,0 +1,74 @@
+.container {
+    margin: 0px auto;
+    align-self: center;
+}
+.menu-head-top {
+    min-height: 60px;
+    background-color: #86b817;
+}
+.menu-head-end {
+    min-height: 150px;
+    background-color: white;
+    border-bottom: 2px solid #86b817;
+}
+.menu-head-top .head-left {
+    align-self: center;
+}
+.menu-head-top .head-right{
+    align-self: center;
+}
+.menu-head-top .head-left a {
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid white;
+}
+.menu-head-top .head-right a {
+    color: white;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-right: 1px solid white;
+}
+.main-menu {
+    align-self: center;
+    padding: 0px;
+    margin: 0px;
+    background-color: white!important;
+    box-shadow: none;
+}
+
+.nav-main .navbar-nav .nav-item .nav-link {
+    border-radius: 4px;
+    padding: 10px 20px 10px 20px;
+    color: #86b817;
+    font-weight: 700;
+    font-size: 13px;
+}
+.nav-main .navbar-nav .nav-item .nav-link:hover {
+    background: #86b817;
+    color: #fff;
+}
+.contact {
+    align-self: center;
+}
+.contact .block-text h3 {
+    color: #888;
+    font-size: 13px;
+    font-weight: 400;
+    align-self: center;
+    padding-right: 10px;
+}
+.contact .block-text .text-content {
+    padding-left: 10px;
+    border-left: 1px solid #888;
+}
+.contact .block-text .text-content .small{
+    color: #777;
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 0px;
+}
